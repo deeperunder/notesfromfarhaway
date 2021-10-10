@@ -2,7 +2,7 @@
 
 ## Click Here to Kill Everybody, Chapter 1: Komputer Masih dan Makin Sulit Diamankan
 
-> Ketika pandemik membuat banyak dari kita menjadi virtual refugee, kerentanan pun tak cuma menyasar tubuh kita. Sudah lama kita tahu hadirnya komputer dan internet di ruang-ruang pribadi kita tidak cuma datang dengan berita baik, melainkan juga berbagai bersama ancaman digital yang bisa menyelinap lewat titik-titik di mana kita terhubung ke internet. Hanya saja, kebutuhan online kita yang kini meningkat selagi kegiatan-kegiatan kumpul dipaksa masuk kamar dulu, mau tak mau membuat ancaman digital pun ikut meningkat. Sasarannya makin banyak dan empuk.
+Ketika pandemik membuat banyak dari kita menjadi virtual refugee, kerentanan pun tak cuma menyasar tubuh kita. Sudah lama kita tahu hadirnya komputer dan internet di ruang-ruang pribadi kita tidak cuma datang dengan berita baik, melainkan juga berbagai bersama ancaman digital yang bisa menyelinap lewat titik-titik di mana kita terhubung ke internet. Hanya saja, kebutuhan online kita yang kini meningkat selagi kegiatan-kegiatan kumpul dipaksa masuk kamar dulu, mau tak mau membuat ancaman digital pun ikut meningkat. Sasarannya makin banyak dan empuk.
 
 Dua puluh tahun lalu, Bruce Schneier pernah coba memaparkannya dengan rinci lewat buku Secrets and Lies: Digital Security in a Networked World (2000). Sebagai computer security expert, Schneier cukup berhasil menjelaskan dengan bahasa yang tidak penuh jargon sehingga ramah untuk pembaca awam soal aktivitas dalam jaringan kita yang dikelilingi oleh virus, spionase, dan pencurian identitas. Di bab-bab lainnya ia juga menjelaskan upaya-upaya apa saja yang bisa dilakukan untuk meningkatkan keamanan kita di internet, mulai dari enkripsi sampai risk assessment.
 
